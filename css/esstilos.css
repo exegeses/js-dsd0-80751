@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: hsl(183, 83%, 9%);
+    color:  hsl(183, 83%, 86%);
+    font-family: Roboto, sans-serif;
+    font-size: 1.6em;
+    font-weight: 300;
+}
+
+h1{
+    font-weight: 300;
+}
+
+a{ 
+    color: white; 
+    text-decoration: none;
+}
+
+#cajaTexto{
+    background-color: hsl(183, 83%, 4%);
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 1.8em;
+    color: hsl(30, 96%, 76%);
+}
+
