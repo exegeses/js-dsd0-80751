@@ -1,0 +1,1 @@
+document.querySelector('#cajaTexto').textContent = 'manzana'

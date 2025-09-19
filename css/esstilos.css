@@ -25,3 +25,22 @@ a{
     color: hsl(30, 96%, 76%);
 }
 
+#caja{
+    width: 214px;
+    height: 214px;
+    margin: 32px;
+    padding: 24px;
+    border-radius: 12px;
+    background-color: #aaa;
+    color: #fff;
+    transition: 500ms;
+}
+
+nav a{
+    background-color: hsl(160, 60%, 30%);
+    padding: 8px 24px;
+    border-radius: 8px;
+}
+nav a:hover{
+    background-color: hsl(160, 80%, 40%);
+}
