@@ -8,6 +8,9 @@ body{
     font-weight: 300;
 }
 
+header{
+    height: 94px;
+}
 h1{
     font-weight: 300;
 }
@@ -17,7 +20,9 @@ a{
     text-decoration: none;
 }
 
-#cajaTexto{
+#cajaTexto, 
+#cajaTexto2
+{
     background-color: hsl(183, 83%, 4%);
     padding: 12px 24px;
     border-radius: 8px;
