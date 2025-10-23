@@ -21,5 +21,4 @@ function generarNumero()
 btn.onclick = function()
             {
                 cajaTexto.textContent = generarNumero()
-                
             }
