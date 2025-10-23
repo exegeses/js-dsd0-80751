@@ -49,3 +49,25 @@ nav a{
 nav a:hover{
     background-color: hsl(160, 80%, 40%);
 }
+
+#rotador{
+        width: 648px;
+        margin: auto;
+        background-color: hsl(183, 83%, 4%);
+        padding: 12px 24px;
+        border-radius: 24px;
+        font-size: 1.8em;
+        color: hsl(30, 96%, 76%);
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+    #rotador img{
+        filter: invert();
+        cursor: pointer;
+        transition: 500ms;
+    }
+    #rotador img:hover{
+        scale: 1.3;
+    }
